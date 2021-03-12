@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+shared_code.egg-info/PKG-INFO
+shared_code.egg-info/SOURCES.txt
+shared_code.egg-info/dependency_links.txt
+shared_code.egg-info/top_level.txt

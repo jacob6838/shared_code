@@ -5,7 +5,7 @@ import pathlib
 here = pathlib.Path(__file__).parent.resolve()
 
 setup(
-    name='functions_shared_code',  # Required
+    name='shared_code',  # Required
     version='2.0.0',  # Required
     packages=find_packages(where=''),  # Required
     python_requires='>=3.6, <4',

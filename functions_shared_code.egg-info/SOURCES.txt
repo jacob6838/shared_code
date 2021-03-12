@@ -1,6 +1,0 @@
-pyproject.toml
-setup.py
-functions_shared_code.egg-info/PKG-INFO
-functions_shared_code.egg-info/SOURCES.txt
-functions_shared_code.egg-info/dependency_links.txt
-functions_shared_code.egg-info/top_level.txt
